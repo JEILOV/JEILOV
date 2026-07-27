@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=550&lines=const+dev+%3D+new+FullStackDeveloper();;dev.stack+%3D+%5B%22React%22%2C+%22Firebase%22%2C+%22Node%22%5D;;dev.status+%3D+%22building+Sistema+CEIA%22;;console.log(%22listo+para+el+siguiente+reto%22)%3B" alt="Typing SVG" />
+
 # ¡Hola! 👋 Soy Jordi
 
 ### Estudiante de Ingeniería de Sistemas · Full Stack Developer (MERN + Firebase)
@@ -35,7 +37,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEILOV&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=JEILOV&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Actividad
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JEILOV/JEILOV/output/snake.svg" alt="Snake de contribuciones" />
 </p>
 
 ---
@@ -44,6 +54,7 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| 🏭 [**sistema-ceia**](https://github.com/JEILOV/sistema-ceia) | Gestión de producción para planta agroindustrial universitaria, con roles y trazabilidad de lotes | React, Firebase |
 | 🛒 [**TuCampus**](https://github.com/JEILOV/TuCampus.) | Marketplace universitario para comprar y vender entre estudiantes | React, Firebase |
 | 🤝 [**munay-peru**](https://github.com/JEILOV/munay-peru) | Plataforma web para una ONG de voluntariado | React, Vite, Tailwind |
 | 🎨 [**portafolio-jordi**](https://github.com/JEILOV/portafolio-jordi) | Mi portafolio personal con mascota propia (Cookie) | Next.js, Sanity CMS |
